@@ -1,5 +1,5 @@
-import  { company } from './configuration.js'
-import { year } from './configuration.js'
+import  { company, year } from './configuration.js'
+//import { year } from './configuration.js'
 
 
 document.addEventListener("DOMContentLoaded", function(){
